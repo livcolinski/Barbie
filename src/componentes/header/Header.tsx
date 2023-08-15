@@ -9,7 +9,7 @@ function Header(){
               <a href="#" className='botao'>Home</a>
             </li>
             <li>
-              <a href="#" className='botao'>Noticia</a>
+              <a href="#" className='botao'>Noticia </a>
             </li>
             <li>
               <a href="#" className='botao'>Sobre</a>
