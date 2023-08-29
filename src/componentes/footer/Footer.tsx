@@ -2,7 +2,7 @@ import './Footer.css'
 export default function Footer() {
   return (
     <footer>
-         <img src='/src/componentes/header/barbie.png' className='barbie-img2'></img>
+         <img src='/src/componentes/header/logo.png' className='barbie-img2'></img>
          
 
 
